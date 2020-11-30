@@ -76,3 +76,14 @@ Commit changes in branch
 ```bash
     git push origin <branch_name>
 ```
+
+Now to update the merge the changes in the new branch to master go to master branch using
+```bash
+    git checkout master
+```
+Then merge the changes using
+```bash
+    git merge <branch_name>
+```
+
+Then commit the changes
