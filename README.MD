@@ -1,4 +1,4 @@
-
+NEW Branch !!!!!!!!!!!!!!
 # Git
  - Git is officially defined as a distributed version control system (VCS).
  - It's a system that tracks changes to our project files over time. It enables us to record project changes and go back to a specific version of the tracked files, at any given point in time.
@@ -58,4 +58,9 @@ Go the to necessary commit by using:-
 To go back to the latest commit use:-
 ```bash
     git checkout master
+```
+## Branches
+See all branches by using 
+```bash
+    git branch
 ```
