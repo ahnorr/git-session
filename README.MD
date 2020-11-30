@@ -41,7 +41,7 @@ Commi the changes:-
 
 Add the repo URL:
 ```bash
-    git remote add origin url
+    git remote add origin <url>
     git push --set-upstream origin master
 ```
 
@@ -87,3 +87,9 @@ Then merge the changes using
 ```
 
 Then commit the changes
+
+## Clone Project 
+If u want to create a local copy of the repo then use the clone command
+```bash
+    git clone <url>
+```
